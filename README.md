@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=CD5C5C&width=600&lines=A+passionate+full+stack+developer;Im+from+Formosa-Argentina" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=600&lines=A+passionate+full+stack+developer;Im+from+Formosa-Argentina" alt="Typing SVG" /></a>
 </p>
 
 <h1>Tech Stack <img align="" alt="GIF" src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="25" /></h1>
